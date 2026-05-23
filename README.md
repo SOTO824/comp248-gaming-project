@@ -23,5 +23,6 @@ This Project analyzes video game sales, ratings and Steam metadata to identify p
 - Pandas
 - Numpy
 - Scikit-learn
+- Matplotlib
 - Jupyter Notebook
 - Power BI
